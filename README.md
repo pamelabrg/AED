@@ -9,4 +9,4 @@ Regras utilizadas: https://fabiensanglard.net/fd_proxy/doom3/CodeStyleConvention
 
 Exercício: Programa em C que recebe um número total de notas e depois receba o conceito de cada uma (A, B, C, D ou E), contabilizando elas e informando ao final a quantidade de cada uma.
 
-Está funcionando sem nenhum warning e os testes  com Dr. Memory estavam ok.
+Está funcionando sem nenhum warning, mas os testes com Dr.Memory deram um vazamento de memória de 2 bytes que não soube corrigir.
